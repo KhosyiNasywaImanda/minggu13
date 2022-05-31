@@ -1,0 +1,13 @@
+body{
+    background-image: url(gambar2.jpg);
+}
+
+.footer{ 
+    border : 1px solid #dedede; 
+    padding : 15px; 
+    margin : 20px; 
+    background-color :rgba(48, 41, 41, 0.911);
+    box-shadow: 2px 2px 15px black;
+    bottom:0;
+    width: 100%;
+}
